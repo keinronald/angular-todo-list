@@ -30,7 +30,6 @@ export class TodoItemComponent implements OnInit {
     // Toggle on Server
     this.todoService.toggleCompleted(todo).subscribe(todoItem =>
       console.log(todoItem));
-
   }
 
   onDelete(todo: Todo) {
