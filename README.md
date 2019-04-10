@@ -1,6 +1,7 @@
 # AngularTodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This is my first project with Angular.
+It was build after an tutorial.
 
 ### What i learned:
 * Importing data with a service
@@ -10,6 +11,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Technologien:
 * Angular
 * SCSS
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
 
